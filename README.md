@@ -16,7 +16,7 @@ Este GitHub reúne laboratórios, projetos e documentação técnica desenvolvid
 
 ---
 
-## 💻 Áreas de Interesse
+## 🛠️ Tecnologias e Competências
 
 -  Windows Server
 -  Active Directory
