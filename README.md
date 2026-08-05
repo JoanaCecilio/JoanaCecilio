@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Bem-vindo ao Joana Labs
 
-<!--
-**JoanaCecilio/JoanaCecilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Aprender • Implementar • Documentar • Evoluir**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+Olá!
+
+Sou a **Joana Cecílio**.
+
+Atualmente encontro-me em especialização em **Gestão de Redes e Sistemas Computacionais**, onde aprofundo conhecimentos em Administração de Sistemas, Redes e Infraestruturas.
+
+Este GitHub reúne laboratórios, projetos e documentação técnica desenvolvidos ao longo da minha evolução profissional.
+
+---
+
+## 💻 Áreas de Interesse
+
+-  Windows Server
+-  Active Directory
+-  Linux
+-  Administração de Redes
+-  PowerShell
+-  Virtualização
+-  Segurança de Redes
+
+---
+
+## 📚 Laboratórios
+
+| Laboratório | Estado |
+|-------------|--------|
+| LAB-001 | Infraestrutura de Rede Segura | 🔄 |
+| LAB-002 | Windows Server | 🔄 |
+| LAB-003 | Active Directory | 🔄 |
+| LAB-004 | VPN Site-to-Site | 🔄 |
+| LAB-005 | Linux | 🔄 |
+
+---
+
+## 🎯 Objetivo
+
+Neste GitHub partilho laboratórios, projetos e documentação técnica desenvolvidos ao longo da minha evolução na área de Sistemas, Redes e Infraestruturas.
+---
+
+> *"Aprender. Implementar. Documentar. Evoluir."*
